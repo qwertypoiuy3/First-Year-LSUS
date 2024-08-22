@@ -1,1 +1,0 @@
-<img src="Output.png" alt="Calculates the tax amount for the given user input.">
